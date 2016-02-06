@@ -1,1 +1,1 @@
-include ':phonemyself', ':activitylifecircle'
+include ':phonemyself', ':activitylifecircle', ':uixml', ':uixml'
