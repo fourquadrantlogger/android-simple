@@ -3,7 +3,7 @@ android 基础知识演练
 
 ## androidlifecircle
 ![](/Image/1.jpg)
-![](/image/2.jpg)
+![](/Image/2.jpg)
 详见 log.v("moe")
 
 ## phonemyself
