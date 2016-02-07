@@ -4,7 +4,5 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <include layout="@layout/titlenav" >
-
-    </include>
+    <include layout="@layout/titlenav" ></include>activity_main.xml
 </RelativeLayout>
