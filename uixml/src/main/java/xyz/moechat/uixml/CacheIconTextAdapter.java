@@ -13,10 +13,10 @@ import java.util.List;
 /**
  * Created by timeloveboy on 16/2/7.
  */
-public class IconTextAdapter extends ArrayAdapter<IconText> {
+public class CacheIconTextAdapter extends ArrayAdapter<IconText> {
 
     int resourceId;
-    public IconTextAdapter(Context context, int resourceId, List<IconText> objects) {
+    public CacheIconTextAdapter(Context context, int resourceId, List<IconText> objects) {
         super(context, resourceId, objects);
         this.resourceId = resourceId;
     }
@@ -24,7 +24,15 @@ public class IconTextAdapter extends ArrayAdapter<IconText> {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         IconText icontext=getItem(position);
-        View view = LayoutInflater.from(getContext()).inflate(resourceId, null);
+        //快速滚动ListView提高效率
+        //快速滚动ListView提高效率
+        View view;
+        if(convertView!=null){
+            view=convertView;
+        } else
+        {
+            view=LayoutInflater.from(getContext()).inflate(resourceId, null);
+        }
 
         ImageView Iconimg=(ImageView)view.findViewById(R.id.Iconimg);
         TextView Iconcontent=(TextView)view.findViewById(R.id.Iconcontent);

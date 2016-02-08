@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
         btn_List.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(MainActivity.this,ListActivity.class);
+                Intent intent = new Intent(MainActivity.this, ListActivity.class);
                 startActivity(intent);
             }
         });
@@ -29,6 +29,24 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 Intent intent=new Intent(MainActivity.this,IconListActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button btn_cacheiconlist=(Button)findViewById(R.id.btncacheiconlist);
+        btn_cacheiconlist.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this,CacheIconListActivity.class);
+                startActivity(intent);
+            }
+        });
+
+        Button btn_viewholdericonlist=(Button)findViewById(R.id.btnviewholdericonlist);
+        btn_viewholdericonlist.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent=new Intent(MainActivity.this,ViewHolderIconListActivity.class);
                 startActivity(intent);
             }
         });

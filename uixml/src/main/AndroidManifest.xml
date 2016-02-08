@@ -25,6 +25,16 @@
                 <action android:name=".IconlistActivity"></action>
             </intent-filter>
         </activity>
+        <activity android:name=".CacheIconListActivity">
+            <intent-filter>
+                <action android:name=".CacheIconlistActivity"></action>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ViewHolderIconListActivity">
+            <intent-filter>
+                <action android:name=".ViewHolderIconlistActivity"></action>
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>
