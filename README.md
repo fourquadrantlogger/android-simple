@@ -18,5 +18,5 @@ listview的用法
 
 ## chat
 演示了chat界面的制作方法
-![](/Image/7)
-![](/Image/8)
+![](/Image/7.jpg)
+![](/Image/8.jpg)
