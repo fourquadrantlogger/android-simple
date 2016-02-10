@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/activitylifecircle/activitylifecircle.iml" filepath="$PROJECT_DIR$/activitylifecircle/activitylifecircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-simple.iml" filepath="$PROJECT_DIR$/android-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonemyself/phonemyself.iml" filepath="$PROJECT_DIR$/phonemyself/phonemyself.iml" />
       <module fileurl="file://$PROJECT_DIR$/uixml/uixml.iml" filepath="$PROJECT_DIR$/uixml/uixml.iml" />
     </modules>

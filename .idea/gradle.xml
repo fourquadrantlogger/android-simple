@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/activitylifecircle" />
+            <option value="$PROJECT_DIR$/chat" />
             <option value="$PROJECT_DIR$/phonemyself" />
             <option value="$PROJECT_DIR$/uixml" />
           </set>
