@@ -15,3 +15,8 @@ listview的用法
 ![](/Image/4.jpg)
 ![](/Image/5.jpg)
 ![](/Image/6.jpg)
+
+## chat
+演示了chat界面的制作方法
+![](/Image/7.jpg)
+![](/Image/8.jpg)
