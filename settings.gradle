@@ -1,1 +1,1 @@
-include ':phonemyself', ':activitylifecircle', ':uixml', ':uixml', ':chat', ':alluiexample'
+include ':phonemyself', ':activitylifecircle', ':uixml', ':uixml', ':chat', ':alluiexample', ':moephone'
