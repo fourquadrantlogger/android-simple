@@ -18,8 +18,13 @@ listview的用法
 
 ## chat
 演示了chat界面的制作方法
+
 ![](/Image/7.jpg)
+
 ![](/Image/8.jpg)
 
 ## moephone 通讯录拨号app
+
+演示了 ContentResolver()查询通讯录的方法
 ![](/Image/moephone.gif)
+
