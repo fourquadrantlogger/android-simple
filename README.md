@@ -26,5 +26,6 @@ listview的用法
 ## moephone 通讯录拨号app
 
 演示了 ContentResolver()查询通讯录的方法
+
 ![](/Image/moephone.gif)
 
