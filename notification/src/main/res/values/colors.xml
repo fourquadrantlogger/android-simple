@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="moeblack">#111</color>
+    <color name="moepink">#ff99cc</color>
+    <color name="moepink_pressed">#ff79bc</color>
+    <color name="white">#fff</color>
+</resources>

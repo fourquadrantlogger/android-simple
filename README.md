@@ -28,3 +28,8 @@ listview的用法
 演示了 ContentResolver()查询通讯录的方法
 ![](/Image/moephone.gif)
 
+## notification 通知栏
+
+演示了通知框点用法
+
+![](/Image/notification.gif)
