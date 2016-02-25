@@ -34,3 +34,9 @@ listview的用法
 演示了通知框点用法
 
 ![](/Image/notification.gif)
+
+## shortmessage 读取所有短信
+
+演示了短信读取
+
+![](/Image/shortmessage.gif)
