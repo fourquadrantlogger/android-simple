@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/textView_contacter"
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+
+            android:textSize="16sp"
+            android:textColor="@color/fontblack"
+            android:text="张玥"/>
+
+        <TextView
+            android:id="@+id/textView_time"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+
+            android:textSize="12sp"
+            android:textColor="@color/fontlightdark"
+            android:text="2008年8月20日"/>
+    </RelativeLayout>
+    <TextView
+        android:id="@+id/textView_shortmessage_mini"
+
+        android:layout_width="match_parent"
+        android:layout_height="17dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="10dp"
+        android:text="又是一年"
+        android:textColor="@color/fontdark"
+        android:textSize="14sp"
+        android:singleLine="true"
+       android:ellipsize = "end"/>
+    <!--省略号在结尾-->
+
+
+</LinearLayout>

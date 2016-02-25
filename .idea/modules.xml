@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/moephone/moephone.iml" filepath="$PROJECT_DIR$/moephone/moephone.iml" />
       <module fileurl="file://$PROJECT_DIR$/notification/notification.iml" filepath="$PROJECT_DIR$/notification/notification.iml" />
       <module fileurl="file://$PROJECT_DIR$/phonemyself/phonemyself.iml" filepath="$PROJECT_DIR$/phonemyself/phonemyself.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shortmessage/shortmessage.iml" filepath="$PROJECT_DIR$/shortmessage/shortmessage.iml" />
       <module fileurl="file://$PROJECT_DIR$/uixml/uixml.iml" filepath="$PROJECT_DIR$/uixml/uixml.iml" />
     </modules>
   </component>

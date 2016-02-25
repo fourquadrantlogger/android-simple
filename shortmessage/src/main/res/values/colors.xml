@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fontblack">#1d1d1d</color>
+    <color name="fontlightdark">#999999</color>
+    <color name="fontdark">#616161</color>
+    <color name="moepink">#ff99cc</color>
+    <color name="white">#fff</color>
+</resources>
